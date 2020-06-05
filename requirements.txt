@@ -1,6 +1,8 @@
-Django==2.1
+-i https://pypi.org/simple/
 django-environ==0.4.5
-djangorestframework==3.9.0
+django==2.2.13
 djangorestframework-gis==0.14
+djangorestframework==3.9
 psycopg2==2.8.3
-pytz==2019.2
+pytz==2020.1
+sqlparse==0.3.1
